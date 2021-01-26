@@ -2,7 +2,6 @@
 title: About
 icon: fas fa-info
 order: 4
-
 # The About page
 # v2.0
 # https://github.com/cotes2020/jekyll-theme-chirpy
@@ -10,5 +9,10 @@ order: 4
 # MIT License
 ---
 
+<!-- > **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page. -->
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+I am a Computer Science student from Dumkal Polytechnic.
+
+I love exploring new technologies.
+
+I am also an enthusiast of `Linux` Distro.

@@ -4,9 +4,6 @@ author: Injamul Mohammad Mollah
 date: 2021-02-09 19:10:00 +0530
 categories: [Blogging, Tutorial]
 tags: [termux, unix service, commandline]
-image:
-  src: /assets/img/blogs/2021-02-09-01.png
-  alt: Termux
 ---
 
 In this post, I will show you how to create and manage services in Termux.

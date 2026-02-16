@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /norobots/
+Disallow: /api/
+Disallow: /sh/
+Allow: /
+Sitemap: /sitemap.xml

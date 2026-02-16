@@ -1,0 +1,29 @@
+{
+  "url": "https://mrinjamul.github.io",
+  "title": "Injamul Mohammad Mollah",
+  "description": "Software Engineer",
+  "author": "Injamul Mohammad Mollah",
+  "updated_at": "2026-02-16T16:23:30+05:30",
+  "posts": [
+    {
+      "id": "/posts/create-and-manage-services-in-termux",
+      "title": "Create and Manage services in Termux",
+      "url": "https://mrinjamul.github.io/posts/create-and-manage-services-in-termux/",
+      "author": "Injamul Mohammad Mollah",
+      "categories": ["Blogging", "Tutorial"],
+      "tags": ["termux", "unix service", "commandline"],
+      "updated_at": "2021-02-09T19:10:00+05:30",
+      "summary": "In this post, I will show you how to create and manage services in Termux."
+    },
+    {
+      "id": "/posts/arch-linux",
+      "title": "Little bit about Arch Linux",
+      "url": "https://mrinjamul.github.io/posts/arch-linux/",
+      "author": "Injamul Mohammad Mollah",
+      "categories": ["Blogging"],
+      "tags": ["arch", "linux", "window manager", "dwm"],
+      "updated_at": "2020-11-05T15:20:00+05:30",
+      "summary": "For most my life with computers I have used Linux. Windows was great but I decided to use Ubuntu. I tried out all sorts of Linux distros (ie. Elementary OS, Linux Mint, etc) but none of them seemed right for me. After doing some searching around and I came to..."
+    }
+  ]
+}

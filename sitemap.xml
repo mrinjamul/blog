@@ -7,7 +7,7 @@
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://mrinjamul.github.io</loc>
-        <lastmod>2026-02-16T16:55:27+05:30</lastmod>
+        <lastmod>2026-02-16T16:58:42+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -25,55 +25,55 @@
       </url>
     <url>
         <loc>https://mrinjamul.github.io/categories/blogging/</loc>
-        <lastmod>2026-02-16T16:55:27+05:30</lastmod>
+        <lastmod>2026-02-16T16:58:42+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://mrinjamul.github.io/categories/tutorial/</loc>
-        <lastmod>2026-02-16T16:55:27+05:30</lastmod>
+        <lastmod>2026-02-16T16:58:42+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
     </url>
       <url>
         <loc>https://mrinjamul.github.io/tags/arch/</loc>
-        <lastmod>2026-02-16T16:55:27+05:30</lastmod>
+        <lastmod>2026-02-16T16:58:42+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
       </url>
       <url>
         <loc>https://mrinjamul.github.io/tags/linux/</loc>
-        <lastmod>2026-02-16T16:55:27+05:30</lastmod>
+        <lastmod>2026-02-16T16:58:42+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
       </url>
       <url>
         <loc>https://mrinjamul.github.io/tags/window-manager/</loc>
-        <lastmod>2026-02-16T16:55:27+05:30</lastmod>
+        <lastmod>2026-02-16T16:58:42+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
       </url>
       <url>
         <loc>https://mrinjamul.github.io/tags/dwm/</loc>
-        <lastmod>2026-02-16T16:55:27+05:30</lastmod>
+        <lastmod>2026-02-16T16:58:42+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
       </url>
       <url>
         <loc>https://mrinjamul.github.io/tags/termux/</loc>
-        <lastmod>2026-02-16T16:55:27+05:30</lastmod>
+        <lastmod>2026-02-16T16:58:42+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
       </url>
       <url>
         <loc>https://mrinjamul.github.io/tags/unix-service/</loc>
-        <lastmod>2026-02-16T16:55:27+05:30</lastmod>
+        <lastmod>2026-02-16T16:58:42+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
       </url>
       <url>
         <loc>https://mrinjamul.github.io/tags/commandline/</loc>
-        <lastmod>2026-02-16T16:55:27+05:30</lastmod>
+        <lastmod>2026-02-16T16:58:42+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
       </url>

@@ -7,7 +7,7 @@
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://mrinjamul.github.io</loc>
-        <lastmod>2026-11-21T17:58:17+05:30</lastmod>
+        <lastmod>2026-11-21T18:04:19+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -31,133 +31,133 @@
       </url>
     <url>
         <loc>https://mrinjamul.github.io/categories/blogging/</loc>
-        <lastmod>2026-11-21T17:58:17+05:30</lastmod>
+        <lastmod>2026-11-21T18:04:19+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://mrinjamul.github.io/categories/tutorial/</loc>
-        <lastmod>2026-11-21T17:58:17+05:30</lastmod>
+        <lastmod>2026-11-21T18:04:19+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://mrinjamul.github.io/categories/linux/</loc>
-        <lastmod>2026-11-21T17:58:17+05:30</lastmod>
+        <lastmod>2026-11-21T18:04:19+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://mrinjamul.github.io/categories/self-hosting/</loc>
-        <lastmod>2026-11-21T17:58:17+05:30</lastmod>
+        <lastmod>2026-11-21T18:04:19+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://mrinjamul.github.io/categories/troubleshooting/</loc>
-        <lastmod>2026-11-21T17:58:17+05:30</lastmod>
+        <lastmod>2026-11-21T18:04:19+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
     </url>
       <url>
         <loc>https://mrinjamul.github.io/tags/arch/</loc>
-        <lastmod>2026-11-21T17:58:17+05:30</lastmod>
+        <lastmod>2026-11-21T18:04:19+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
       </url>
       <url>
         <loc>https://mrinjamul.github.io/tags/linux/</loc>
-        <lastmod>2026-11-21T17:58:17+05:30</lastmod>
+        <lastmod>2026-11-21T18:04:19+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
       </url>
       <url>
         <loc>https://mrinjamul.github.io/tags/window-manager/</loc>
-        <lastmod>2026-11-21T17:58:17+05:30</lastmod>
+        <lastmod>2026-11-21T18:04:19+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
       </url>
       <url>
         <loc>https://mrinjamul.github.io/tags/dwm/</loc>
-        <lastmod>2026-11-21T17:58:17+05:30</lastmod>
+        <lastmod>2026-11-21T18:04:19+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
       </url>
       <url>
         <loc>https://mrinjamul.github.io/tags/termux/</loc>
-        <lastmod>2026-11-21T17:58:17+05:30</lastmod>
+        <lastmod>2026-11-21T18:04:19+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
       </url>
       <url>
         <loc>https://mrinjamul.github.io/tags/unix-service/</loc>
-        <lastmod>2026-11-21T17:58:17+05:30</lastmod>
+        <lastmod>2026-11-21T18:04:19+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
       </url>
       <url>
         <loc>https://mrinjamul.github.io/tags/commandline/</loc>
-        <lastmod>2026-11-21T17:58:17+05:30</lastmod>
+        <lastmod>2026-11-21T18:04:19+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
       </url>
       <url>
         <loc>https://mrinjamul.github.io/tags/owncloud/</loc>
-        <lastmod>2026-11-21T17:58:17+05:30</lastmod>
+        <lastmod>2026-11-21T18:04:19+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
       </url>
       <url>
         <loc>https://mrinjamul.github.io/tags/owncloud-infinite-scale/</loc>
-        <lastmod>2026-11-21T17:58:17+05:30</lastmod>
+        <lastmod>2026-11-21T18:04:19+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
       </url>
       <url>
         <loc>https://mrinjamul.github.io/tags/ocis/</loc>
-        <lastmod>2026-11-21T17:58:17+05:30</lastmod>
+        <lastmod>2026-11-21T18:04:19+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
       </url>
       <url>
         <loc>https://mrinjamul.github.io/tags/ldap/</loc>
-        <lastmod>2026-11-21T17:58:17+05:30</lastmod>
+        <lastmod>2026-11-21T18:04:19+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
       </url>
       <url>
         <loc>https://mrinjamul.github.io/tags/idm/</loc>
-        <lastmod>2026-11-21T17:58:17+05:30</lastmod>
+        <lastmod>2026-11-21T18:04:19+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
       </url>
       <url>
         <loc>https://mrinjamul.github.io/tags/tls/</loc>
-        <lastmod>2026-11-21T17:58:17+05:30</lastmod>
+        <lastmod>2026-11-21T18:04:19+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
       </url>
       <url>
         <loc>https://mrinjamul.github.io/tags/ssl/</loc>
-        <lastmod>2026-11-21T17:58:17+05:30</lastmod>
+        <lastmod>2026-11-21T18:04:19+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
       </url>
       <url>
         <loc>https://mrinjamul.github.io/tags/docker/</loc>
-        <lastmod>2026-11-21T17:58:17+05:30</lastmod>
+        <lastmod>2026-11-21T18:04:19+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
       </url>
       <url>
         <loc>https://mrinjamul.github.io/tags/self-hosting/</loc>
-        <lastmod>2026-11-21T17:58:17+05:30</lastmod>
+        <lastmod>2026-11-21T18:04:19+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
       </url>
       <url>
         <loc>https://mrinjamul.github.io/tags/login-error/</loc>
-        <lastmod>2026-11-21T17:58:17+05:30</lastmod>
+        <lastmod>2026-11-21T18:04:19+05:30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
       </url>
